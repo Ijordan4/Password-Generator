@@ -1,3 +1,5 @@
+## Password Generator
+
 ## User Story
 I've created a random password generator so that I can generate strong passwords for security. 
 
