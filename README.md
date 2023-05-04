@@ -20,6 +20,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Respsitory
+https://github.com/Ijordan4/Password-Generator
 
 ## Webpage
 https://ijordan4.github.io/Password-Generator/
