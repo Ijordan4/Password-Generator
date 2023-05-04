@@ -25,4 +25,4 @@ https://github.com/Ijordan4/Password-Generator
 ## Webpage
 https://ijordan4.github.io/Password-Generator/
 
-![screenshot](/assets/images/screenshot40.png)
+![screenshot](/assets/images/screenshot_password.jpg)
